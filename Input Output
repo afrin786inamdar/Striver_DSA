@@ -1,0 +1,9 @@
+class Solution {
+public:
+    void printNumber() {
+        int a;
+        cout<<"enter no:";
+        cin>>a;
+
+    }
+};
